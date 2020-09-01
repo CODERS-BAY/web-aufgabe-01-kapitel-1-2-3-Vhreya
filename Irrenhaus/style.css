@@ -48,6 +48,7 @@ header h2 {
 nav {
     width: 100%;
     background-color: rgb(31, 51, 50, 0.7);
+    border-bottom: black 2px solid;
 }
 
 nav ul {
@@ -99,7 +100,7 @@ section {
     font-weight: 200;
     margin:0.5rem;
     padding: 0.5rem;
-    box-shadow: rgb(180, 180, 180) 2px 2px 10px;
+    box-shadow: rgb(68, 130, 138) 2px 2px 8px;
     min-width: 10rem;
     flex-wrap: wrap;
 }
@@ -194,7 +195,8 @@ section {
 .team {
     width: 40%;
     height: auto;
-    opacity: 0.8;
+    opacity: 0.9;
+    border-bottom: 2px solid black;
 }
 
 #miracee {
